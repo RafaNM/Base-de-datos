@@ -1,0 +1,2 @@
+{ "_id" : "a1", "nombre" : "Restaurante mediterraneo", "año" : 1994, "propietario" : "Juan Jose Fernandez", "platos_estrella" : [ "Paella", "Lubina a la plancha con verduras salteadas", "Lasaña de carne gratinada con bechamel" ], "franquicias" : ["a3", "a302", "b3", "b302" ]}
+{"_id": "c1", "nombre": "Restaurante la pasta", "año": 2000, "propietario": "Roberto Dominguez", "platos estrella" : ["Ravioli", "Pizza barbacoa", "Spagetti carbbonara"], "franquicias": [ "c3", "d3"  ]}

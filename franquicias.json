@@ -1,0 +1,6 @@
+{"_id": "a3", "nombre": "Restaurante el paellero", "año": 1994, "platos estrella": ["Paella negra", "Paella mixta"], "pertenece_a": "a1", "info_extra": "a4"}
+{"_id": "a302", "nombre": "Restaurante el calamar", "año": 2010, "platos estrella": ["Calamares en su tinta", "Pulpo a la gallega"], "pertenece_a": "a1", "info_extra": "a402"}
+{"_id": "b3", "nombre": "Restaurante el muelle", "año": 1996, "platos estrella": ["Caldereta de langosta", "Lubina a la plancha"], "pertenece_a": "a1", "info_extra": "b4"}
+{"_id": "b302", "nombre": "Restaurante el pecadito", "año": 2000, "platos estrella": ["Pescadito frito", "Gambas al ajillo"], "pertenece_a": "a1", "info_extra": "b402"}
+{"_id": "c3", "nombre": "Restaurante el padrino", "año": 2005, "platos estrella": ["Pizza boloñesa", "Macarrones con tomate"], "pertenece_a": "c1", "info_extra": "c4"}
+{"_id": "d3", "nombre": "Restaurante Gorgonzola", "año": 2007, "platos estrella": ["Pizza 4 estaciones", "Gnocchi"], "pertenece_a": "c1", "info_extra": "d4"}
